@@ -1,0 +1,14 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ipykernel
+  - matplotlib
+  - numpy
+  - scipy
+  - scikit-learn
+  - pandas
+  - seaborn
+  - pip
+
